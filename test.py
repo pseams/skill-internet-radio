@@ -14,5 +14,4 @@ for station in stations:
        stream_name = "none"
        
  
-    print stream_url2, stream_name
-
+    print(stream_url2, stream_name)
